@@ -2,7 +2,7 @@ body {
     font-family: sans-serif;
     margin: 0;
     padding: 20px;
-    background-color: #e0e0e0; /* تغییر رنگ پس‌زمینهٔ کلی */
+    background-color: #e0e0e0; 
 }
 
 h1 {
@@ -17,22 +17,22 @@ h1 {
 
 section {
     position: relative;
-    background-color: #c0c0c0; /* تغییر رنگ پس‌زمینهٔ بخش‌ها */
+    background-color: #c0c0c0;
     border: 1px solid black;
     margin-bottom: 20px;
     padding: 20px;
 }
 
 section#chicken-section h2 {
-    background-color: #ffdddd; /* صورتی برای Chicken */
+    background-color: #ffdddd; 
 }
 
 section#beef-section h2 {
-    background-color: #ffaaaa; /* قرمز برای Beef */
+    background-color: #ffaaaa; 
 }
 
 section#sushi-section h2 {
-    background-color: #ffffaa; /* زرد برای Sushi */
+    background-color: #ffffaa; 
 }
 
 section h2 {
